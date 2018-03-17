@@ -1,1 +1,2 @@
-BERA
+This repository contains python scripts used for UAV-based point clouds processing in BERA (Boreal Ecosystem Recovery and Assessment) project (http://www.bera-project.org) writen by Shijuan Chen. Please cite the script as:
+Chen, S., McDermid, G. J., Castilla, G., & Linke, J. (2017). Measuring Vegetation Height in Linear Disturbances in the Boreal Forest with UAV Photogrammetry. Remote Sensing, 9(12), 1257.
